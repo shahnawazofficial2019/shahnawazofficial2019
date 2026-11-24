@@ -1,0 +1,313 @@
+# Md. Shah Nawaz Khan
+**Sales & Marketing Professional** · Dhaka, Bangladesh
+
+Marketing and business development professional focused on academic outreach, brand promotion, event management and lead generation.
+
+## Highlights
+- Mentored **5,000+ students** on medical admission pathways at Medico (2025)
+- Led events with **1,000+ participants** (2025)
+- Increased lead generation by **30%** and customer retention by **15%** at Bikroy.com (2024)
+
+## Experience
+- **Regional Marketing Officer**, Medico (2025)
+- **Business Development Officer**, Bikroy.com (2024)
+- **Business Development Executive (Intern)**, GAOTec Inc. (2023)
+
+## Education
+BBA in Marketing, United International University (2015 – 2019)
+
+## Skills
+Academic outreach · Event management · Lead generation · CRM · Stakeholder engagement · Market research · Negotiation
+
+## Connect
+[LinkedIn](https://www.linkedin.com/in/shah-nawazkhan1996) · shahnawazkhanofficial2019@gmail.com
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Md. Shah Nawaz Khan – Sales & Marketing Professional</title>
+<meta name="description" content="Marketing and business development professional in Dhaka: academic outreach, event management, lead generation and CRM.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,700;12..96,800&family=DM+Sans:wght@400;500;700&display=swap" rel="stylesheet">
+<style>
+:root{
+  --ink:#101b33; --paper:#f3f5f8; --card:#ffffff; --line:#d9dee7;
+  --muted:#4d5a73; --accent:#f2b01e; --on-accent:#101b33; --hero-bg:#101b33; --hero-text:#f3f5f8;
+  --link:#1d4ed8;
+}
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]){
+    --ink:#eef1f6; --paper:#0b1226; --card:#131c36; --line:#26314f;
+    --muted:#a3aec6; --hero-bg:#070d1d; --hero-text:#eef1f6; --link:#8fb0ff;
+  }
+}
+:root[data-theme="dark"]{
+  --ink:#eef1f6; --paper:#0b1226; --card:#131c36; --line:#26314f;
+  --muted:#a3aec6; --hero-bg:#070d1d; --hero-text:#eef1f6; --link:#8fb0ff;
+}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth}
+body{margin:0;background:var(--paper);color:var(--ink);font:400 1.05rem/1.65 "DM Sans",system-ui,sans-serif}
+a{color:var(--link)}
+a:focus-visible,button:focus-visible{outline:3px solid var(--accent);outline-offset:3px}
+h1,h2,h3{font-family:"Bricolage Grotesque","DM Sans",system-ui,sans-serif;line-height:1.1;margin:0}
+.wrap{max-width:1040px;margin:0 auto;padding:0 1.5rem}
+
+/* nav */
+nav{position:sticky;top:0;z-index:5;background:var(--hero-bg);color:var(--hero-text)}
+nav .wrap{display:flex;align-items:center;justify-content:space-between;gap:1rem;padding-top:.8rem;padding-bottom:.8rem}
+nav b{font-family:"Bricolage Grotesque",sans-serif;font-weight:700}
+nav ul{display:flex;gap:1.2rem;list-style:none;margin:0;padding:0;flex-wrap:wrap}
+nav a{color:var(--hero-text);text-decoration:none;font-size:.95rem}
+nav a:hover{color:var(--accent)}
+.theme{background:none;border:1px solid currentColor;color:var(--hero-text);border-radius:99px;padding:.25rem .8rem;cursor:pointer;font:inherit;font-size:.85rem}
+
+/* hero */
+.hero{background:var(--hero-bg);color:var(--hero-text);padding:4.5rem 0 5rem}
+.hero .wrap{display:grid;grid-template-columns:1.6fr 1fr;gap:3rem;align-items:center}
+.hero h1{font-size:clamp(2.4rem,6vw,4.4rem);font-weight:800;letter-spacing:-.02em}
+.hero h1 span{display:block;color:var(--accent)}
+.hero p{max-width:34rem;color:color-mix(in srgb,var(--hero-text) 82%,transparent);margin:1.4rem 0 2rem}
+.btns{display:flex;gap:.8rem;flex-wrap:wrap}
+.btn{display:inline-block;padding:.75rem 1.4rem;border-radius:6px;font-weight:700;text-decoration:none}
+.btn.primary{background:var(--accent);color:var(--on-accent)}
+.btn.ghost{border:1.5px solid var(--hero-text);color:var(--hero-text)}
+.portrait{position:relative;width:min(100%,280px);aspect-ratio:4/5;margin-left:auto;border-radius:140px 140px 12px 12px;
+  background:linear-gradient(160deg,#27345a,#16213f);display:grid;place-items:center;overflow:hidden;outline:3px solid var(--accent);outline-offset:8px}
+.portrait span{font:800 5rem "Bricolage Grotesque",sans-serif;color:var(--accent)}
+.portrait img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover}
+
+/* sections */
+section{padding:4.5rem 0}
+section h2{font-size:clamp(1.8rem,4vw,2.6rem);font-weight:800;margin-bottom:2rem;letter-spacing:-.01em}
+
+/* impact */
+.impact{padding:0;margin-top:-2.4rem;position:relative}
+.stats{display:grid;grid-template-columns:repeat(4,1fr);background:var(--card);border:1px solid var(--line);border-radius:10px;overflow:hidden}
+.stat{padding:1.6rem 1.4rem;border-right:1px solid var(--line)}
+.stat:last-child{border-right:0}
+.stat b{display:block;font:800 2.6rem/1 "Bricolage Grotesque",sans-serif}
+.stat small{display:block;margin-top:.5rem;color:var(--muted);font-size:.92rem;line-height:1.4}
+
+/* about */
+.about{display:grid;grid-template-columns:1fr 1fr;gap:3rem}
+.about p{margin:0 0 1rem;max-width:34rem}
+.skills{display:flex;flex-wrap:wrap;gap:.5rem;align-content:flex-start;padding:0;list-style:none;margin:0}
+.skills li{border:1px solid var(--line);background:var(--card);border-radius:99px;padding:.35rem .95rem;font-size:.95rem}
+
+/* experience timeline */
+.role{display:grid;grid-template-columns:170px 1fr;gap:2rem;padding:2rem 0;border-top:1px solid var(--line)}
+.role:last-child{border-bottom:1px solid var(--line)}
+.role time{color:var(--muted);font-weight:700}
+.role h3{font-size:1.45rem;margin-bottom:.2rem}
+.role .co{color:var(--muted);margin:0 0 .9rem}
+.role ul{margin:0;padding-left:1.1rem}
+.role li{margin:.3rem 0;max-width:46rem}
+.role li::marker{color:var(--accent)}
+
+/* achievements */
+.ach{display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:1rem}
+.ach article{background:var(--card);border:1px solid var(--line);border-left:5px solid var(--accent);border-radius:6px;padding:1.2rem 1.3rem}
+.ach h3{font-size:1.15rem}
+.ach p{margin:.3rem 0 0;color:var(--muted);font-size:.95rem}
+
+/* education */
+.edu{display:grid;grid-template-columns:1fr 1fr;gap:1.5rem}
+.edu div{background:var(--card);border:1px solid var(--line);border-radius:6px;padding:1.4rem}
+.edu h3{font-size:1.2rem;margin-bottom:.3rem}
+.edu p{margin:.2rem 0;color:var(--muted)}
+
+/* contact */
+.contact{background:var(--hero-bg);color:var(--hero-text)}
+.contact a{color:var(--accent)}
+.contact p{max-width:34rem;color:color-mix(in srgb,var(--hero-text) 82%,transparent)}
+.contact .big{font:700 clamp(1.1rem,3vw,1.8rem) "Bricolage Grotesque",sans-serif;word-break:break-all}
+footer{padding:1.5rem 0;color:var(--muted);font-size:.9rem}
+
+@media (max-width:760px){
+  .hero .wrap,.about,.edu{grid-template-columns:1fr}
+  .portrait{margin:0 auto;width:220px}
+  .stats{grid-template-columns:1fr 1fr}
+  .stat:nth-child(2){border-right:0}
+  .stat:nth-child(-n+2){border-bottom:1px solid var(--line)}
+  .role{grid-template-columns:1fr;gap:.4rem}
+  nav ul{display:none}
+}
+@media (prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
+</style>
+</head>
+<body>
+
+<nav>
+  <div class="wrap">
+    <b>Shah Nawaz Khan</b>
+    <ul>
+      <li><a href="#about">About</a></li>
+      <li><a href="#experience">Experience</a></li>
+      <li><a href="#achievements">Achievements</a></li>
+      <li><a href="#education">Education</a></li>
+      <li><a href="#contact">Contact</a></li>
+    </ul>
+    <button class="theme" id="theme" type="button" aria-label="Switch colour theme">Theme</button>
+  </div>
+</nav>
+
+<header class="hero">
+  <div class="wrap">
+    <div>
+      <h1>Md. Shah Nawaz Khan <span>Sales & Marketing Professional</span></h1>
+      <p>I run academic outreach, events and lead generation campaigns that put students in seminar halls and customers in the pipeline. Based in Dhaka, Bangladesh.</p>
+      <div class="btns">
+        <a class="btn primary" href="#contact">Get in touch</a>
+        <a class="btn ghost" href="Sk_Cv_snk.pdf" download>Download CV</a>
+      </div>
+    </div>
+    <!-- Add your photo as photo.jpg next to this file -->
+    <div class="portrait" aria-hidden="true">
+      <span>SK</span>
+      <img src="photo.jpg" alt="" onerror="this.remove()">
+    </div>
+  </div>
+</header>
+
+<div class="wrap impact">
+  <div class="stats">
+    <div class="stat"><b>5,000+</b><small>students mentored on medical admission and careers</small></div>
+    <div class="stat"><b>1,000+</b><small>participants at large-scale academic events</small></div>
+    <div class="stat"><b>30%</b><small>increase in lead generation at Bikroy.com</small></div>
+    <div class="stat"><b>15%</b><small>improvement in customer retention</small></div>
+  </div>
+</div>
+
+<section id="about">
+  <div class="wrap about">
+    <div>
+      <h2>About</h2>
+      <p>I'm a results-driven marketing and business development professional with one year of hands-on experience in academic outreach, brand promotion, event management and lead generation.</p>
+      <p>I work best where marketing meets people: building partnerships with institutions, counselling students, and using data and CRM to decide where the next campaign should go.</p>
+    </div>
+    <div>
+      <h2>Skills</h2>
+      <ul class="skills">
+        <li>Academic outreach</li>
+        <li>Brand promotion</li>
+        <li>Event management</li>
+        <li>Lead generation</li>
+        <li>Stakeholder engagement</li>
+        <li>Student counselling</li>
+        <li>CRM management</li>
+        <li>Market research</li>
+        <li>Client onboarding</li>
+        <li>Negotiation</li>
+        <li>Data-driven growth</li>
+      </ul>
+    </div>
+  </div>
+</section>
+
+<section id="experience" style="padding-top:0">
+  <div class="wrap">
+    <h2>Experience</h2>
+
+    <div class="role">
+      <time>2025</time>
+      <div>
+        <h3>Regional Marketing Officer</h3>
+        <p class="co">Medico</p>
+        <ul>
+          <li>Led outreach across leading institutions, including Notre Dame and Holy Cross College.</li>
+          <li>Coordinated faculty partnerships to bring academic seminars into the curriculum.</li>
+          <li>Mentored 5,000+ students on medical admission pathways and career planning.</li>
+          <li>Organised large-scale academic events with 1,000+ participants.</li>
+          <li>Managed event logistics, branding and stakeholder engagement.</li>
+          <li>Implemented a data-driven “Mind Share” strategy to boost enrolment growth.</li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="role">
+      <time>2024</time>
+      <div>
+        <h3>Business Development Officer</h3>
+        <p class="co">Bikroy.com</p>
+        <ul>
+          <li>Conducted market research that improved customer retention by 15%.</li>
+          <li>Increased lead generation by 30% through targeted campaigns.</li>
+          <li>Improved conversion rates and customer satisfaction through digital strategies.</li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="role">
+      <time>2023</time>
+      <div>
+        <h3>Business Development Executive (Internship)</h3>
+        <p class="co">GAOTec Inc.</p>
+        <ul>
+          <li>Supported marketing campaigns and client onboarding.</li>
+          <li>Assisted in negotiations and business development initiatives.</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section id="achievements" style="padding-top:0">
+  <div class="wrap">
+    <h2>Key achievements</h2>
+    <div class="ach">
+      <article><h3>Regional Academic Outreach Program</h3><p>Medico, 2025</p></article>
+      <article><h3>Event leadership for 1,000+ participants</h3><p>Medico, 2025</p></article>
+      <article><h3>Strategic market expansion</h3><p>Bikroy.com, 2025</p></article>
+      <article><h3>Significant client onboarding</h3><p>Bikroy.com, 2024</p></article>
+      <article><h3>Innovative marketing initiatives</h3><p>GAOTec Inc., 2024</p></article>
+    </div>
+  </div>
+</section>
+
+<section id="education" style="padding-top:0">
+  <div class="wrap">
+    <h2>Education</h2>
+    <div class="edu">
+      <div>
+        <h3>BBA in Marketing</h3>
+        <p>United International University, 2015 – 2019</p>
+        <p>President, University Marketing Aspirants</p>
+      </div>
+      <div>
+        <h3>Higher Secondary Certificate</h3>
+        <p>2014</p>
+        <p>Business Studies & Commerce</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section id="contact" class="contact">
+  <div class="wrap">
+    <h2>Let's work together</h2>
+    <p>Open to marketing, business development and outreach roles. The fastest way to reach me is email.</p>
+    <p class="big"><a href="mailto:shahnawazkhanofficial2019@gmail.com">shahnawazkhanofficial2019@gmail.com</a></p>
+    <p><a href="https://www.linkedin.com/in/shah-nawazkhan1996">LinkedIn profile</a></p>
+  </div>
+</section>
+
+<footer><div class="wrap">© 2026 Md. Shah Nawaz Khan</div></footer>
+
+<script>
+(function(){
+  var btn=document.getElementById('theme'),root=document.documentElement;
+  try{var t=localStorage.getItem('theme');if(t)root.setAttribute('data-theme',t)}catch(e){}
+  btn.addEventListener('click',function(){
+    var dark=root.getAttribute('data-theme')?root.getAttribute('data-theme')==='dark':matchMedia('(prefers-color-scheme: dark)').matches;
+    var next=dark?'light':'dark';
+    root.setAttribute('data-theme',next);
+    try{localStorage.setItem('theme',next)}catch(e){}
+  });
+})();
+</script>
+</body>
+</html>
